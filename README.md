@@ -1,7 +1,7 @@
 **LIRI BOT**
 
 **Introduction**
-Welcome! This is a node js program, termed LIRI BOT, is designed to respond to user inputs with detailed information. The end user can search for upcoming concert venues and locations for their favorite artists, provide a song name to get more details about it (e.g. artist, album name, etc.), enter a movie name (returns date of movie, actors, year, etc.), and reads a local document to render results based on its text.
+Welcome! This is a node js program, termed LIRI BOT, it is designed to respond to user inputs with detailed information. The end user can search for upcoming concert venues and locations for their favorite artists, provide a song name to get more details about it (e.g. artist, album name, etc.), enter a movie name (returns date of movie, actors, year, etc.), and reads a local document to render results based on its text.
 
 
 *Usage Instructions*
