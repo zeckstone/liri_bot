@@ -6,15 +6,15 @@ Welcome! This is a node js program, termed LIRI BOT, it is designed to respond t
 
 ***Usage Instructions***
 
-***Concert Search***
+***Concert Search:***
 Run the application by typing *node liribot.js concert-this "[artist name]"* into the terminal and pressing ENTER to execute. Be sure to put artist name in quotation marks (e.g. "John Legend"). This should return upcoming concert venue name, city and country.
 
-***Song Search***
+***Song Search:***
 Run the application by typing *node liribot.js spotify-this-song "[song name]"* into the terminal, press ENTER to execute. This should render results showing the artist name, song title, album name, and a Spotify preview link.
 
-***Movie Search***
+***Movie Search:***
 Start application by typing *node liribot.js movie-this "[movie name]"* into terminal, then hit ENTER to execute. Results include movie year, title, actors, country, language, plot and ratings.
 
-***Text Commands***
+***Text Commands:***
 Run application by typing "node liribot.js do-what-it-says." This reads a local file and renders results based on the document's text. The data from the file is passed into any of the above functions to produce the results. 
 
